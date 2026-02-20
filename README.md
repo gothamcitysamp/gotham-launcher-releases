@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/hYeox3W.png" alt="Gotham City Banner" />
-</p>
-
 # 🦇 Gotham City Launcher – Releases
 
 Repositório oficial de distribuições do **Gotham City Launcher**.
